@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K-Rilla
+- 👋 Hi, I’m Kelvin Rajbhandari
 - 👀 I’m interested in building a GitHub presence.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on beginner-friendly projects.
